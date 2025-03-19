@@ -1,0 +1,13 @@
+:root{
+    --gray: rgb(75, 75, 75);
+}
+
+.title-line{
+    font-size: 1.5rem;
+    background-color: var(--gray);
+}
+
+.drive-line{
+    font-size: 1.2rem;
+    background-color: var(--gray);
+}
