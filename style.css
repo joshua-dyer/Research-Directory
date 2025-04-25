@@ -11,6 +11,10 @@ hr{
     height: 10vh;
 }
 
+.nav-bg{
+    background-color: slategray;
+}
+
 a{
     text-decoration: none;
 }
